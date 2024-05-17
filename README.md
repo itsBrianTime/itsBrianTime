@@ -1,6 +1,7 @@
 # Brian Bessler
 
 **`Software Engineer`**
+
 I'm a newly graduated Software engineer. My projects range from school assignments to personal projects that I've enjoyed putting together. My interest in learning new tech is increadibly high and I'm looking forward to the many projects I'll work on during my career.
 
 ---
