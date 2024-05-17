@@ -24,37 +24,14 @@ I'm a newly graduated Software engineer. My projects range from school assignmen
 #
 
 ### 📊 Stats
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsBrianTime&show_icons=true&theme=merko)
 
-## 🏆 Projects
-
-### Project Name
-Short description of the project. This project was built using **Python**, **Django**, and **PostgreSQL**.
-!Project Image
-
----
+#
 
 ## 📫 Contact Me
 
-- Email: your-email@example.com
-- LinkedIn: Your Name
-- Twitter: @yourhandle
-
----
-
-## 🎓 Certifications and Courses
-
-- **Certification/Course Name** - Issuing Organization
-
----
-
-!GitHub Contributions
-
----
-
-!Python
-!Followers
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsBrianTime&show_icons=true&theme=merko)
+- Email: briancolebessler@gmail.com
+- LinkedIn: [Brian bessler](https://www.linkedin.com/in/brian-bessler-1237a4226/)
 
 #
 
