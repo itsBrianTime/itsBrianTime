@@ -28,8 +28,11 @@ I'm a newly graduated Software engineer. My projects range from school assignmen
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsBrianTime&show_icons=true&theme=merko)
 
 #
+
+[Linkedin]: https://www.linkedin.com/in/brian-bessler-1237a4226/
+
 <details>
  <summary><h3>👨‍💻 Brian's Coding Journey</h3></summary>
    I started my coding journey as an adult computer science student with a mission to learn everything I could about this programming world - code, theory, best practices. I had always been interested in creating video games and my love of coding grew from there. I got my Associates in Computer Science back in 2020. From there, I started my Bachelor’s degree in Software Engineering at Arizona State University. While at ASU, I had got an internship with NAVSEA learning about Cyber Security. During my last year at University, I got a job working for Mantech as a Junior Software Engineer in Cyber Security. As of May of 2024, I've finally gotten my degree in Software Engineering. I’m eagerly learning as much as I can to become a more confident developer. I’m always looking for new opportunities and new technology to learn. 
 
-[Linkedin]: https://www.linkedin.com/in/brian-bessler-1237a4226/
+
