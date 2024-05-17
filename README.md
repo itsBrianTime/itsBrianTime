@@ -19,10 +19,13 @@ I'm a newly graduated Software engineer. My projects range from school assignmen
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 #
+
+### 📊 Stats
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsBrianTime&show_icons=true&theme=gruvbox)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
